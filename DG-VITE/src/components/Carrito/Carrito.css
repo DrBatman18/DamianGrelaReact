@@ -1,0 +1,6 @@
+.carrito{
+    object-fit: contain;
+    height: 35px;
+    width: 35px;
+    margin: 1% 2% 1% 2%;
+}
